@@ -9,6 +9,10 @@ The original page: [[Project Page]](http://richzhang.github.io/PerceptualSimilar
 
 We implement the LPIPS metric of 'alex', 'vgg', 'squeeze' by Jittor.
 
+Download the weights from the Google Drive Link and put the weights into `./lpips/weights/`.
+
+Link: https://drive.google.com/drive/folders/1cTbrSl5M-7CNNDr0iJVgtRYSVrR3f4xb?usp=sharing
+
 ### Quick start
 
 ```
